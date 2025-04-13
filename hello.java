@@ -6,3 +6,5 @@ this is day one of learning java
 hey hey 
 its 13 already and i've not worked even a bit on this
 i need to start learning java asap
+
+ill push another code 
