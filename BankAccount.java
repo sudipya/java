@@ -2,6 +2,7 @@ import java.util.*;
 public class BankAccount{
 int cash=0;
 int balance=0;
+int atmdeposit=0;
 int chequenumber=0;
 int chequeamount=0;
 int accountNumber=0;
