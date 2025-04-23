@@ -48,6 +48,6 @@ obj.deposittransfer(accountNumber,amounttransfer);
 default:{
 System.out.print("enter a valid mode of payment");
 }
-}
+} 
 }
 }
